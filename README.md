@@ -4,6 +4,8 @@ Recap of Xamarin Summit 2019
 
 [Xamarin Summit GitHub](https://github.com/xamarindevelopersummit/XamDevSummit2019)
 
+## DAY 2
+
 ## GraphQL with [Brandon Minnick](https://twitter.com/TheCodeTraveler) 
 [Link to summit session on YouTube](https://youtu.be/t1cQsenAmNo?t=18547)
 
@@ -11,9 +13,11 @@ Recap of Xamarin Summit 2019
 
 ![graphqlexample](images/GraphQLExample.PNG)
 
-We can play with GitHub API using GraphQL here : https://developer.github.com/v4/explorer/
+We can play with GitHub API using GraphQL here :  
+https://developer.github.com/v4/explorer/
 
-GitHub with example used in talk : https://github.com/brminnick/SimpleXamarinGraphQL
+GitHub with example used in talk :  
+https://github.com/brminnick/SimpleXamarinGraphQL
 
 ## AppCenter with [Patrick Nikoletich](https://twitter.com/lbcpat)
 [Link to summit session on YouTube](https://youtu.be/t1cQsenAmNo?t=22166)
@@ -25,3 +29,14 @@ Mainly talks about what AppCenter is, and the future of the product.
 
 - AppCenter Data: Connect your app with Azure CosmoDB
 - AppCenter Push: Preview feature, send push notification to your app
+
+## Xamarin.Forms Shell with [Shane Neuville](https://twitter.com/pureween)
+[Link to summint session on YouTube](https://youtu.be/t1cQsenAmNo?t=25752)
+
+Why do Xamarin.Forms Shell exists.
+![Shell1](images/Shell1.PNG)
+
+Source code of demo :  
+https://github.com/PureWeen/ReactShell/tree/master/Source
+
+The demo shows how to use and customize Shell navigation. Really interesting!
