@@ -4,7 +4,31 @@ Recap of Xamarin Summit 2019
 
 [Xamarin Summit GitHub](https://github.com/xamarindevelopersummit/XamDevSummit2019)
 
-## DAY 2
+---
+
+# DAY 1
+
+## Future of Xamarin with [James Montemagno](https://twitter.com/jamesmontemagno)
+[Link to summit session on YouTube](https://youtu.be/YJ8TiRCsLl4?t=996)
+
+- iOS 13: 
+
+- Android App Bundle for Xamarin
+
+![Android App Bundle](images/AndroidAppBundle.png)
+
+Package all resources for your app while uploading application to AppStore. When a user download the app, Google produces an optimized apk for this specific user.
+
+- Startup Tracing: Improve application startup time by 100% and reduce artefact size
+
+- AndroidX: Google refactoring of Android support libraries
+
+## Cross-Platform Everything with [David Ortinau](https://twitter.com/davidortinau)
+[Link to summit session on YouTube](https://youtu.be/YJ8TiRCsLl4?t=2425)
+
+---
+
+# DAY 2
 
 ## GraphQL with [Brandon Minnick](https://twitter.com/TheCodeTraveler) 
 [Link to summit session on YouTube](https://youtu.be/t1cQsenAmNo?t=18547)
