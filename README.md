@@ -11,20 +11,23 @@ Recap of Xamarin Summit 2019
 ## Future of Xamarin with [James Montemagno](https://twitter.com/jamesmontemagno)
 [Link to summit session on YouTube](https://youtu.be/YJ8TiRCsLl4?t=996)
 
-- iOS 13: 
-
+- iOS 13: Coming to Xamarin soon!
 - Android App Bundle for Xamarin
-
 ![Android App Bundle](images/AndroidAppBundle.png)
 
 Package all resources for your app while uploading application to AppStore. When a user download the app, Google produces an optimized apk for this specific user.
 
 - Startup Tracing: Improve application startup time by 100% and reduce artefact size
-
 - AndroidX: Google refactoring of Android support libraries
 
 ## Cross-Platform Everything with [David Ortinau](https://twitter.com/davidortinau)
 [Link to summit session on YouTube](https://youtu.be/YJ8TiRCsLl4?t=2425)
+
+- Xamarin.Essentials: More platforms supported in the future, watchOS, tvOS, Tizen, ...
+
+- Xamarin.Forms Open Source Evolution
+![Xamarin.Forms Pull Request](images/XamarinFormsPR.png)
+![Xamarin.Forms Community Pull Request](images/XamarinFormsCommunityPR.png)
 
 ---
 
