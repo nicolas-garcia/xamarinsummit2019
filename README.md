@@ -6,7 +6,7 @@ Recap of Xamarin Summit 2019
 
 ---
 
-# DAY 1
+# [DAY 1](https://www.youtube.com/watch?v=YJ8TiRCsLl4)
 
 ## Future of Xamarin with [James Montemagno](https://twitter.com/jamesmontemagno)
 [Link to summit session on YouTube](https://youtu.be/YJ8TiRCsLl4?t=996)
@@ -29,9 +29,17 @@ Package all resources for your app while uploading application to AppStore. When
 ![Xamarin.Forms Pull Request](images/XamarinFormsPR.png)
 ![Xamarin.Forms Community Pull Request](images/XamarinFormsCommunityPR.png)
 
+And more interesting things on Xamarin.Forms, how they works on meeting our needs and unifying experiences between platforms.
+
+- Quick introduction of the power of Shell. A dedicated session is planned on day 2 with James
+- CarouselView is coming soon (already available as preview)
+
+## Developer Productivity with [Maddy Leger](https://twitter.com/maddyleger1)
+[Link to summit session on YouTube](https://youtu.be/YJ8TiRCsLl4?t=3746)
+
 ---
 
-# DAY 2
+# [DAY 2](https://www.youtube.com/watch?v=t1cQsenAmNo)
 
 ## GraphQL with [Brandon Minnick](https://twitter.com/TheCodeTraveler) 
 [Link to summit session on YouTube](https://youtu.be/t1cQsenAmNo?t=18547)
@@ -67,3 +75,11 @@ Source code of demo :
 https://github.com/PureWeen/ReactShell/tree/master/Source
 
 The demo shows how to use and customize Shell navigation. Really interesting!
+
+--- 
+
+# Things I noted from the summit
+
+- Eveybody at Microsoft use a PC AND a Mac for working with Xamarin
+- [Vysor](https://www.vysor.io/) has been used for streaming smartphone screen to computer
+
