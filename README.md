@@ -43,10 +43,10 @@ And more interesting things on Xamarin.Forms, how they works on meeting our need
 - Android XML fully supported
 - Building time improved
 - **Hot Reload** :fire::repeat:
-Change your XAML, save, look at your updated UI on your device!
-Works with all frameworks (Prism, etc), with big existing apps
-Works both on Windows and Mac, out of the box, no setup needed!
-Don't crash VS, or your computer, or the plane you're in, if you mispell something.
+  - Change your XAML, save, look at your updated UI on your device!
+  - Works with all frameworks (Prism, etc), with big existing apps
+  - Works both on Windows and Mac, out of the box, no setup needed!
+  - Don't crash VS, or your computer, or the plane you're in, if you mispell something.
 ![Hot Reload](images/VSHotReload.png)
 
 This is still in private preview though.
