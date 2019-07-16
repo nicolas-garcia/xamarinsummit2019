@@ -8,7 +8,7 @@ Recap of Xamarin Summit 2019
 
 # [DAY 1](https://www.youtube.com/watch?v=YJ8TiRCsLl4)
 
-## Future of Xamarin with [James Montemagno](https://twitter.com/jamesmontemagno)
+## Future of Xamarin with [James Montemagno](https://twitter.com/jamesmontemagno) :star: Love this guy!
 [Link to summit session on YouTube](https://youtu.be/YJ8TiRCsLl4?t=996)
 
 - iOS 13: Coming to Xamarin soon!
@@ -36,6 +36,20 @@ And more interesting things on Xamarin.Forms, how they works on meeting our need
 
 ## Developer Productivity with [Maddy Leger](https://twitter.com/maddyleger1)
 [Link to summit session on YouTube](https://youtu.be/YJ8TiRCsLl4?t=3746)
+
+- Improve code editor in Visual Studio for Mac
+- XAML IntelliSense in Visual Studio for Mac
+- IntelliCode
+- Android XML fully supported
+- Building time improved
+- **Hot Reload** :fire::repeat:
+Change your XAML, save, look at your updated UI on your device!
+Works with all frameworks (Prism, etc), with big existing apps
+Works both on Windows and Mac, out of the box, no setup needed!
+Don't crash VS, or your computer, or the plane you're in, if you mispell something.
+![Hot Reload](images/VSHotReload.png)
+
+This is still in private preview though.
 
 ---
 
