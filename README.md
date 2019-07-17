@@ -10,11 +10,13 @@ If you think that some major info is missing out, feel free to submit a PR! I'd 
 
 Recap by **Maddy Leger** [here](https://devblogs.microsoft.com/xamarin/recapping-xamarin-developer-summit/)
 
+All sessions with a :heart: are my personnal recommandations to watch.
+
 ---
 
 # [DAY 1](https://www.youtube.com/watch?v=YJ8TiRCsLl4)
 
-## Future of Xamarin with [James Montemagno](https://twitter.com/jamesmontemagno) :star: Love this guy!
+## :heart: Future of Xamarin with [James Montemagno](https://twitter.com/jamesmontemagno) :star: Love this guy!
 [Link to summit session on YouTube](https://youtu.be/YJ8TiRCsLl4?t=996)
 
 - iOS 13: Coming to Xamarin soon!
@@ -26,7 +28,7 @@ Package all resources for your app while uploading the application to AppStore. 
 - Startup Tracing: Improve application startup time by 100% and reduce artefact size
 - AndroidX: Google refactoring of Android support libraries
 
-## Cross-Platform Everything with [David Ortinau](https://twitter.com/davidortinau)
+## :heart: Cross-Platform Everything with [David Ortinau](https://twitter.com/davidortinau)
 [Link to summit session on YouTube](https://youtu.be/YJ8TiRCsLl4?t=2425)
 
 - Xamarin.Essentials: More platforms supported in the future, watchOS, tvOS, Tizen, ...
@@ -40,7 +42,7 @@ And more interesting things on Xamarin.Forms, how they works on meeting our need
 - Quick introduction of the power of Shell. A dedicated session is planned on day 2 with James
 - CarouselView is coming soon (already available as preview)
 
-## Developer Productivity with [Maddy Leger](https://twitter.com/maddyleger1)
+## :heart: Developer Productivity with [Maddy Leger](https://twitter.com/maddyleger1)
 [Link to summit session on YouTube](https://youtu.be/YJ8TiRCsLl4?t=3746)
 
 - Improve code editor in Visual Studio for Mac
@@ -67,7 +69,7 @@ This technical session explains how Android build works and all build options.
 
 This session extends the first one of Maddy. No new information, but some examples and cool demos.
 
-## Page Object Pattern and UITest Best Practicies with [Sweekriti Satpathy](https://twitter.com/SweekritiS)
+## :heart: Page Object Pattern and UITest Best Practicies with [Sweekriti Satpathy](https://twitter.com/SweekritiS)
 [Link to summit session on YouTube](https://youtu.be/YJ8TiRCsLl4?t=16514)
 
 - State of UI Tests today
@@ -118,7 +120,7 @@ public class Tests
 
 Sweekriti then made a clear and cool demo of how to write tests for an existing app. Totally worth watching.
 
-## Streamline & Simplify Events with Reactive Extensions with [Shane Neuville](https://twitter.com/pureween)
+## :heart: Streamline & Simplify Events with Reactive Extensions with [Shane Neuville](https://twitter.com/pureween)
 [Link to summit session on YouTube](https://youtu.be/YJ8TiRCsLl4?t=20138)
 
 Shane worked a lot on [ReactiveUI](https://github.com/reactiveui/ReactiveUI) prior working for Microsoft.
@@ -161,7 +163,7 @@ Jérome introduce his open source [Platform.uno](https://platform.uno/) which us
 
 Sweekriti introduce Mixed Reality in Xamarin using [Azure Spatial Anchors](https://azure.microsoft.com/en-us/services/spatial-anchors/).
 
-## Let’s Make Crazy Beautiful UI With Xamarin.Forms with [David Ortinau](https://twitter.com/davidortinau)
+## :heart: Let’s Make Crazy Beautiful UI With Xamarin.Forms with [David Ortinau](https://twitter.com/davidortinau)
 [Link to summit session on YouTube](https://youtu.be/t1cQsenAmNo?t=14941)
 
 David did an amazing session, I really recommand watching it!  
@@ -178,7 +180,7 @@ The demo is a theming of an app.
 Talks about **parallax scrolling** apps and good practices for transitions.
 
 
-## GraphQL with [Brandon Minnick](https://twitter.com/TheCodeTraveler) 
+## :heart: GraphQL with [Brandon Minnick](https://twitter.com/TheCodeTraveler) 
 [Link to summit session on YouTube](https://youtu.be/t1cQsenAmNo?t=18547)
 
 **GraphQL** is a language for querying complex API by explicitly asking for what data we need without doing multiple REST requests. That's pretty cool!
@@ -202,7 +204,7 @@ Mainly talks about what AppCenter is, and the future of the product.
 - AppCenter Data: Connect your app with Azure CosmoDB
 - AppCenter Push: Preview feature, send push notification to your app
 
-## Xamarin.Forms Shell with [Shane Neuville](https://twitter.com/pureween)
+## :heart: Xamarin.Forms Shell with [Shane Neuville](https://twitter.com/pureween)
 [Link to summint session on YouTube](https://youtu.be/t1cQsenAmNo?t=25752)
 
 Why does Xamarin.Forms Shell exists.
