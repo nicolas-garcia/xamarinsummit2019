@@ -149,6 +149,24 @@ This session shows how to use Azure for hidding secrets in the cloud instead of 
 
 # [DAY 2](https://www.youtube.com/watch?v=t1cQsenAmNo)
 
+## Platform Uno with [Jérome Laban](https://twitter.com/jlaban)
+[Link to summit session on YouTube](https://youtu.be/t1cQsenAmNo?t=1007)
+
+Jérome introduce his open source [Platform.uno](https://platform.uno/) which use WebAssembly for building moble and desktop applications using C# and XAML.
+
+## Building Xamarin.Android from source with [Jonathan Peppers](https://twitter.com/JonathanPeppers)
+[Link to summit session on YouTube](https://youtu.be/t1cQsenAmNo?t=5310)
+
+## Create Mixed Reality Experiences with Azure Spatial Anchors and Xamarin with [Sweekriti Satpathy](https://twitter.com/SweekritiS)
+[Link to summit session on YouTube](https://youtu.be/t1cQsenAmNo?t=7780)
+
+Sweekriti introduce Mixed Reality in Xamarin using [Azure Spatial Anchors](https://azure.microsoft.com/en-us/services/spatial-anchors/).
+
+## Let’s Make Crazy Beautiful UI With Xamarin.Forms with [David Ortinau](https://twitter.com/davidortinau)
+[Link to summit session on YouTube](https://youtu.be/t1cQsenAmNo?t=14941)
+
+
+
 ## GraphQL with [Brandon Minnick](https://twitter.com/TheCodeTraveler) 
 [Link to summit session on YouTube](https://youtu.be/t1cQsenAmNo?t=18547)
 
