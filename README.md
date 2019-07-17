@@ -9,6 +9,8 @@ Recap of Xamarin Summit 2019
 This is my very own interpretation of the summit. I may be missing some info I did not find relevant in my case, but it doesn't mean that it was not interesting.  
 If you think that some major info is missing out, feel free to submit a PR! I'd be glad to accept it!
 
+Recap by **Maddy Leger** [here](https://devblogs.microsoft.com/xamarin/recapping-xamarin-developer-summit/)
+
 ---
 
 # [DAY 1](https://www.youtube.com/watch?v=YJ8TiRCsLl4)
