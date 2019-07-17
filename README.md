@@ -20,7 +20,7 @@ If you think that some major info is missing out, feel free to submit a PR! I'd 
 - Android App Bundle for Xamarin
 ![Android App Bundle](images/AndroidAppBundle.png)
 
-Package all resources for your app while uploading application to AppStore. When a user download the app, Google produces an optimized apk for this specific user.
+Package all resources for your app while uploading the application to AppStore. When a user download the app, Google produces an optimized apk for this specific user.
 
 - Startup Tracing: Improve application startup time by 100% and reduce artefact size
 - AndroidX: Google refactoring of Android support libraries
@@ -49,9 +49,9 @@ And more interesting things on Xamarin.Forms, how they works on meeting our need
 - Building time improved
 - **Hot Reload** :fire::repeat:
   - Change your XAML, save, look at your updated UI on your device!
-  - Works with all frameworks (Prism, etc), with big existing apps
+  - Works with all frameworks (Prism, etc.), with big existing apps
   - Works both on Windows and Mac, out of the box, no setup needed!
-  - Don't crash VS, or your computer, or the plane you're in, if you mispell something.
+  - Don't crash VS, or your computer, or the plane you're in, if you misspell something.
 ![Hot Reload](images/VSHotReload.png)
 
 This is still in private preview though.
@@ -87,7 +87,7 @@ Mainly talks about what AppCenter is, and the future of the product.
 ## Xamarin.Forms Shell with [Shane Neuville](https://twitter.com/pureween)
 [Link to summint session on YouTube](https://youtu.be/t1cQsenAmNo?t=25752)
 
-Why do Xamarin.Forms Shell exists.
+Why does Xamarin.Forms Shell exists.
 ![Shell1](images/Shell1.PNG)
 
 Source code of demo :  
@@ -99,6 +99,6 @@ The demo shows how to use and customize Shell navigation. Really interesting!
 
 # Things I noted from the summit
 
-- Eveybody at Microsoft use a PC AND a Mac for working with Xamarin
+- Everybody at Microsoft use a PC AND a Mac for working with Xamarin
 - [Vysor](https://www.vysor.io/) has been used for streaming smartphone screen to computer
 
