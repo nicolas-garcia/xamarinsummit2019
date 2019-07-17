@@ -1,12 +1,11 @@
 # Xamarin Summit 2019
 
-:warning: STILL WORK IN PROGRESS :warning:
-
 Recap of Xamarin Summit 2019
 
 :octocat: [Xamarin Summit GitHub](https://github.com/xamarindevelopersummit/XamDevSummit2019)
 
-This is my very own interpretation of the summit. I may be missing some info I did not find relevant in my case, but it doesn't mean that it was not interesting.  
+**This is my very own interpretation of the summit**. I may be missing some info I did not find relevant in my case, but it doesn't mean that it was not interesting. On the other hand, some sessions were so interesting, I was not able to select the info to write in this recap, the whole session is worth watching!
+
 If you think that some major info is missing out, feel free to submit a PR! I'd be glad to accept it!
 
 Recap by **Maddy Leger** [here](https://devblogs.microsoft.com/xamarin/recapping-xamarin-developer-summit/)
@@ -165,6 +164,18 @@ Sweekriti introduce Mixed Reality in Xamarin using [Azure Spatial Anchors](https
 ## Let’s Make Crazy Beautiful UI With Xamarin.Forms with [David Ortinau](https://twitter.com/davidortinau)
 [Link to summit session on YouTube](https://youtu.be/t1cQsenAmNo?t=14941)
 
+David did an amazing session, I really recommand watching it!  
+
+Some tools he use:
+- [Adobe Color](https://color.adobe.com/fr/explore)
+- [Coolor.co](https://coolors.co/)
+- [GrialUI Kit](https://grialkit.com/)
+- SkiaSharp for grandiants or drawing shapes.
+
+Introduce some good practices for Fonts and theming.  
+The demo is a theming of an app.
+
+Talks about **parallax scrolling** apps and good practices for transitions.
 
 
 ## GraphQL with [Brandon Minnick](https://twitter.com/TheCodeTraveler) 
