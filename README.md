@@ -131,9 +131,15 @@ This session is really worth watching in order to catch what Reactive X is and h
 :octocat: Example source code can be found [here on GitHub](https://github.com/PureWeen/XamSummit2019)
 
 ## Crafting Real-Time Mobile Apps with SignalR with [James Montemagno](https://twitter.com/jamesmontemagno)
-[Link to summit session on YouTube](https://youtu.be/YJ8TiRCsLl4?t=20138)
+[Link to summit session on YouTube](https://youtu.be/YJ8TiRCsLl4?t=23715)
 
+In this session, James introduce [SignalR](https://github.com/SignalR/SignalR), then shows a demo using it for creating a chat.  
+Has I already used SignalR, this session was cool but I didn't learn anything new.
 
+:octocat: Source Code on [GitHub](https://github.com/jamesmontemagno/XamChat)
+
+## Partly Cloudy – Tips & Tricks to Using Azure to Its Fullest in Mobile Apps with [Matt Soucoup](https://twitter.com/codemillmatt)
+[Link to summit session on YouTube](https://youtu.be/YJ8TiRCsLl4?t=27333)
 
 ---
 
