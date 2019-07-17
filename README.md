@@ -141,6 +141,10 @@ Has I already used SignalR, this session was cool but I didn't learn anything ne
 ## Partly Cloudy – Tips & Tricks to Using Azure to Its Fullest in Mobile Apps with [Matt Soucoup](https://twitter.com/codemillmatt)
 [Link to summit session on YouTube](https://youtu.be/YJ8TiRCsLl4?t=27333)
 
+This session shows how to use Azure for hidding secrets in the cloud instead of your app, how to secure your app and how to improve the performances.
+
+:octocat: All demos code can be found [here](https://github.com/codemillmatt/xam-dev-summit)
+
 ---
 
 # [DAY 2](https://www.youtube.com/watch?v=t1cQsenAmNo)
