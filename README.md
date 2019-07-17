@@ -4,7 +4,7 @@
 
 Recap of Xamarin Summit 2019
 
-[Xamarin Summit GitHub](https://github.com/xamarindevelopersummit/XamDevSummit2019)
+:octocat: [Xamarin Summit GitHub](https://github.com/xamarindevelopersummit/XamDevSummit2019)
 
 This is my very own interpretation of the summit. I may be missing some info I did not find relevant in my case, but it doesn't mean that it was not interesting.  
 If you think that some major info is missing out, feel free to submit a PR! I'd be glad to accept it!
@@ -113,16 +113,25 @@ public class Tests
   }
 }
 ```
-Check out those examples on [GitHub](https://github.com/xamarin-automation-service/uitest-pop-example)
+:octocat: Check out those examples on [GitHub](https://github.com/xamarin-automation-service/uitest-pop-example)
 
 - In order to tweak your UI Tests, you can use [REPL](https://docs.microsoft.com/en-us/appcenter/test-cloud/uitest/working-with-repl?tabs=vswin) (read-eval-print-loop)
 
 Sweekriti then made a clear and cool demo of how to write tests for an existing app. Totally worth watching.
 
 ## Streamline & Simplify Events with Reactive Extensions with [Shane Neuville](https://twitter.com/pureween)
-[Link to summit session on YouTube](https://youtu.be/YJ8TiRCsLl4?t=16514)
+[Link to summit session on YouTube](https://youtu.be/YJ8TiRCsLl4?t=20138)
 
+Shane worked a lot on [ReactiveUI](https://github.com/reactiveui/ReactiveUI) prior working for Microsoft.
 
+![ReactiveX](images/XamarinReactiveIntro.jpg)
+
+This session is really worth watching in order to catch what Reactive X is and how to use it. I will not write down everything here as it would mean writing down the whole session.
+
+:octocat: Example source code can be found [here on GitHub](https://github.com/PureWeen/XamSummit2019)
+
+## Crafting Real-Time Mobile Apps with SignalR with [James Montemagno](https://twitter.com/jamesmontemagno)
+[Link to summit session on YouTube](https://youtu.be/YJ8TiRCsLl4?t=20138)
 
 
 
@@ -138,10 +147,10 @@ Sweekriti then made a clear and cool demo of how to write tests for an existing 
 ![graphqlexample](images/GraphQLExample.PNG)
 
 We can play with GitHub API using GraphQL here :  
-https://developer.github.com/v4/explorer/
+:octocat: https://developer.github.com/v4/explorer/
 
 GitHub with example used in talk :  
-https://github.com/brminnick/SimpleXamarinGraphQL
+:octocat: https://github.com/brminnick/SimpleXamarinGraphQL
 
 ## AppCenter with [Patrick Nikoletich](https://twitter.com/lbcpat)
 [Link to summit session on YouTube](https://youtu.be/t1cQsenAmNo?t=22166)
@@ -161,7 +170,7 @@ Why does Xamarin.Forms Shell exists.
 ![Shell1](images/Shell1.PNG)
 
 Source code of demo :  
-https://github.com/PureWeen/ReactShell/tree/master/Source
+:octocat: https://github.com/PureWeen/ReactShell/tree/master/Source
 
 The demo shows how to use and customize Shell navigation. Really interesting!
 
