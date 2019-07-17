@@ -58,6 +58,74 @@ And more interesting things on Xamarin.Forms, how they works on meeting our need
 
 This is still in private preview though.
 
+## Speed Up Android Build Times & Shrink APK Sizes with [Jonathan Peppers](https://twitter.com/JonathanPeppers)
+[Link to summit session on YouTube](https://youtu.be/YJ8TiRCsLl4?t=5910)
+
+This technical session explains how Android build works and all build options.  
+
+## What's New For Xamarin Developers in Visual Studio with [Maddy Leger](https://twitter.com/maddyleger1)
+[Link to summit session on YouTube](https://youtu.be/YJ8TiRCsLl4?t=9355)
+
+This session extends the first one of Maddy. No new information, but some examples and cool demos.
+
+## Page Object Pattern and UITest Best Practicies with [Sweekriti Satpathy](https://twitter.com/SweekritiS)
+[Link to summit session on YouTube](https://youtu.be/YJ8TiRCsLl4?t=16514)
+
+- State of UI Tests today
+![UI Tests recap](images/XamarinUITestRecap.PNG)
+
+- What is **Page Object Pattern**
+![PageObjectPattern](images/PageObjectPattern.PNG)
+Basically, each page of your app should be an object in tests.  
+How we used to write tests:
+```csharp
+[TestFixture]
+public class Tests
+{
+  [SetUp]
+  public void BeforeEachTest()
+  {
+    // Set up app
+  }
+  
+  [Test]
+  public void LogInTest()
+  {
+    app.Tap(x => x.Id("log-in-button"));
+  }
+}
+```
+How we should to this now:
+```csharp
+[TestFixture]
+public class Tests
+{
+  [SetUp]
+  public void BeforeEachTest()
+  {
+    // Set up app
+  }
+  
+  [Test]
+  public void LogInTest()
+  {
+    new LogInPage().LogIn("user", "password");
+  }
+}
+```
+Check out those examples on [GitHub](https://github.com/xamarin-automation-service/uitest-pop-example)
+
+- In order to tweak your UI Tests, you can use [REPL](https://docs.microsoft.com/en-us/appcenter/test-cloud/uitest/working-with-repl?tabs=vswin) (read-eval-print-loop)
+
+Sweekriti then made a clear and cool demo of how to write tests for an existing app. Totally worth watching.
+
+## Streamline & Simplify Events with Reactive Extensions with [Shane Neuville](https://twitter.com/pureween)
+[Link to summit session on YouTube](https://youtu.be/YJ8TiRCsLl4?t=16514)
+
+
+
+
+
 ---
 
 # [DAY 2](https://www.youtube.com/watch?v=t1cQsenAmNo)
